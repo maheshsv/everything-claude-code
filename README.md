@@ -1,3 +1,13 @@
+> **Personal fork notice**
+>
+> This is **maheshsv's personal copy** of [ECC (Everything Claude Code)](https://github.com/affaan-m/ECC) by [Affaan Mustafa](https://github.com/affaan-m), maintained for my own Claude Code / Python / web / journalism workflows.
+>
+> The full original README is preserved below. See [`NOTICE.md`](NOTICE.md) for attribution details and what's customized.
+>
+> **Upstream:** https://github.com/affaan-m/ECC · **License:** MIT (unchanged)
+>
+> ---
+
 **Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md) | [Русский](docs/ru/README.md) | [Tiếng Việt](docs/vi-VN/README.md) | [ไทย](docs/th/README.md) | [Deutsch](docs/de-DE/README.md)
 
 # ECC

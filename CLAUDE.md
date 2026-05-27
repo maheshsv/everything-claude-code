@@ -2,6 +2,8 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+> **Fork notice:** This is maheshsv's personal copy of [affaan-m/ECC](https://github.com/affaan-m/ECC). See [`NOTICE.md`](NOTICE.md) for what's customized.
+
 ## Project Overview
 
 This is a **Claude Code plugin** - a collection of production-ready agents, skills, hooks, commands, rules, and MCP configurations. The project provides battle-tested workflows for software development using Claude Code.

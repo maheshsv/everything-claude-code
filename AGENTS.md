@@ -1,8 +1,10 @@
 # Everything Claude Code (ECC) — Agent Instructions
 
+> **Fork notice:** This is maheshsv's personal copy of [affaan-m/ECC](https://github.com/affaan-m/ECC). Behavior and conventions below are unchanged from upstream unless noted in [`NOTICE.md`](NOTICE.md).
+
 This is a **production-ready AI coding plugin** providing 61 specialized agents, 246 skills, 76 commands, and automated hook workflows for software development.
 
-**Version:** 2.0.0-rc.1
+**Version:** 2.0.0-rc.1 (fork of upstream rc.1)
 
 ## Core Principles
 

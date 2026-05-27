@@ -1,10 +1,8 @@
 {
-  "name": "ecc-universal",
+  "name": "everything-claude-code-maheshsv",
   "version": "2.0.0-rc.1",
-  "description": "Harness-native agent operating system for Claude Code, Codex, OpenCode, Cursor, Gemini, and terminal workflows - skills, hooks, rules, MCP conventions, and operator control-plane patterns",
-  "publishConfig": {
-    "access": "public"
-  },
+  "description": "maheshsv's personal fork of ECC (Everything Claude Code) by Affaan Mustafa — harness-native agent operating system for Claude Code, Codex, OpenCode, Cursor, Gemini, and terminal workflows",
+  "private": true,
   "keywords": [
     "claude-code",
     "ai",
@@ -31,14 +29,20 @@
     "name": "Affaan Mustafa",
     "url": "https://x.com/affaanmustafa"
   },
+  "contributors": [
+    {
+      "name": "maheshsv",
+      "url": "https://github.com/maheshsv"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affaan-m/ECC.git"
+    "url": "git+https://github.com/maheshsv/everything-claude-code.git"
   },
-  "homepage": "https://github.com/affaan-m/ECC#readme",
+  "homepage": "https://github.com/maheshsv/everything-claude-code#readme",
   "bugs": {
-    "url": "https://github.com/affaan-m/ECC/issues"
+    "url": "https://github.com/maheshsv/everything-claude-code/issues"
   },
   "files": [
     ".agents/",
